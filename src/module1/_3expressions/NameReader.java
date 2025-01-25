@@ -7,9 +7,9 @@ public class NameReader {
 
         Scanner scan = new Scanner(System.in);  
 
-        System.out.println("Please Enter your name: ");
-        String name = scan.nextLine();
-        System.out.println("Hello " + name);
+        System.out.println("Please Enter your age:  ");
+        int age = scan.nextInt();
+        System.out.println("Your age is" + age);
 
     }
 

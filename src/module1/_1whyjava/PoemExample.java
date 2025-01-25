@@ -6,5 +6,7 @@ public class PoemExample
    {
       System.out.println("Roses are red,");
       System.out.println("Violets are blue,");
+      System.out.println("Java is interesting,");
+      System.out.println("And So are you!");
    }
 }

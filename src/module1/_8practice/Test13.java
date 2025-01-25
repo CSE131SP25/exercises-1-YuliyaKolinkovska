@@ -8,5 +8,11 @@ public class Test13
       // money, pricePerWing, numWings
       // and print out numWings
 
+    	double money = 4.5; 
+    	double pricePerWing = .75;
+    	int numWings = (int) ((money / pricePerWing)+.5);
+    	//int numWings;
+    	System.out.println(numWings);
+
     }
 }

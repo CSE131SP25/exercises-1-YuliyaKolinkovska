@@ -7,6 +7,8 @@ public class SalaryExample
     int weeklySalary = 500;
     int numWeeks = 6;
     int totalPay;
+    totalPay = weeklySalary * numWeeks; 
+    System.out.println("Total Pay = " + totalPay);
 
   }
 }
